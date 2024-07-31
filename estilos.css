@@ -4,10 +4,9 @@ body{
 }
 
 a{
-  text-decoration: none;
+  text-decoration: underline;
   color: #0a4241;
-  font-weight: 700;
-}
+  }
 
 header{
   display: flex;
