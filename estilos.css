@@ -89,3 +89,7 @@ img{
    max-width: 100%;
    object-fit: contain;
  }
+
+.main{
+  padding-top: 12rem;
+}
