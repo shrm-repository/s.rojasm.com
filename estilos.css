@@ -14,7 +14,7 @@ a{
 
 header{
   display: flex;
-  min-height: 65px;
+  min-height: 50px;
   background-color: #b7c6c6;
   justify-content: space-between;
   align-items: center;
