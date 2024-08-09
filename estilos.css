@@ -62,26 +62,26 @@ nav a:hover{
 }
 
 h1{
-  font-size: 28px;
+  font-size: 22px;
   color: #0a4241;
 }
 
 h2{
-  font-size: 22px;
+  font-size: 18px;
   padding: 15px;
   margin: 25px;
   color: #0a4241;
 }
 
 h3{
-  font-size: 20px;
+  font-size: 16px;
   padding: 15px;
   margin: 25px;
   color: #0a4241;
 }
 
 p{
-  padding: 15px;
+  padding: 14px;
   margin: 25px;
   color: #0a4241;
   font-size: 14px;
